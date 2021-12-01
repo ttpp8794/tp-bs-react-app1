@@ -1,0 +1,8 @@
+site_name: "tp-react-ssr1"
+site_description: "this is comp test"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

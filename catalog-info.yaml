@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "tp-react-ssr1"
+  description: "this is comp test"
+  annotations:
+    github.com/project-slug: ttpp8794/tp-bs-react-app1
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "peng, tao"
